@@ -1,0 +1,11 @@
+{
+    "name": "adam",
+    "age": "30",
+    "city": "newyork",
+    "id": 120,
+    "role": [
+        "qa",
+        "engineer"
+    ],
+    "ismarried": true
+}
